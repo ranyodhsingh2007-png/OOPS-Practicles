@@ -1,3 +1,4 @@
+//Simple code to print the detail of the student using classes and objects
 #include <iostream>
 using namespace std;
 class Student{
